@@ -8,4 +8,4 @@ plotly
 
 dash_bootstrap_components
 
-app
+
